@@ -16,3 +16,7 @@ MyDrive/\
         ├── img001.txt\
         ├── img002.txt\
         └── ...
+
+Annotation methods:
+1. Manual Annotation was done using https://www.cvat.ai/
+2. Auto Annotation was done using YOLO v8
