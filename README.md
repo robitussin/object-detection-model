@@ -5,7 +5,6 @@ This is an object detection model made to retrieve a dataset in Google Drive
 In Google Drive, the folder structure of the dataset should be:
 
 MyDrive/
-
 └── dataset/
 
     ├── images/
