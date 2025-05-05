@@ -13,4 +13,4 @@ MyDrive/\
     └── labels/\
         ├── img001.txt\
         ├── img002.txt\
-        └── ...\
+        └── ...
