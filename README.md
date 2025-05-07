@@ -1,6 +1,5 @@
-# objectdetectionmodel
-
-A object detection model using a CNN to detect cats and dogs for demonstration
+# Description
+A object detection model using a CNN to detect cats and dogs for demonstration purposes
 
 This is an object detection model made to retrieve a dataset in Google Drive
 
@@ -17,6 +16,21 @@ MyDrive/\
         ├── img002.txt\
         └── ...
 
-Annotation methods:
-1. Manual Annotation was done using https://www.cvat.ai/
-2. Auto Annotation was done using YOLO v8
+# Model Training
+## model.ipynb
+Use this to train a CNN model using the images from google drive and the labels generated.
+
+## Annotation
+# manualannotation.ipynb
+Use this to check if the manually generated labels are accurate
+
+# manualannotation.ipynb
+Use this to check if the manually generated labels are accurate
+
+# yoloannotation(local.ipynb)
+
+Use this to 
+
+
+
+   
