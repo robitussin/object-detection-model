@@ -17,17 +17,17 @@ MyDrive/\
         └── ...
 
 # Model Training
-## model.ipynb
+### model.ipynb
 Use this to train a CNN model using the images from google drive and the labels generated.
 
 ## Annotation
-# manualannotation.ipynb
+### manualannotation.ipynb
 Use this to check if the manually generated labels are accurate
 
-# manualannotation.ipynb
+#### manualannotation.ipynb
 Use this to check if the manually generated labels are accurate
 
-# yoloannotation(local.ipynb)
+### yoloannotation(local.ipynb)
 
 Use this to 
 
